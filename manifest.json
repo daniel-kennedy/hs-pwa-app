@@ -1,6 +1,7 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "The Help Center App",
+  "name": "The Help Center App: Washington County DHS",
+  "description":"Resource directory for residents of Washington County PA",
   "icons": [
     {
       "src": "favicon.ico",
