@@ -19,7 +19,7 @@ function MainNavbar() {
                         width='60'
                         height='60'
                         className='d-inline-block align-top'
-                        alt='React Bootstrap logo'
+                        alt='County logo'
                     />
                     <Navbar.Text id="navbarTitle" style={{verticalAlign:"middle", fontSize:'1.5rem', fontWeight:'bold', color:'var(--bs-dark)'}}>Washington County, PA</Navbar.Text>
                 </Navbar.Brand>
