@@ -98,7 +98,7 @@ function App() {
             </a>
           </h4>
           <div id="googleMap" className="mt-4">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d906.662697594959!2d-80.24795298328961!3d40.170709504345645!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8835adbb6b19e47d%3A0x26d05e2663c41f54!2s95%20W%20Beau%20St%2C%20Washington%2C%20PA%2015301!5e0!3m2!1sen!2sus!4v1689948452442!5m2!1sen!2sus" width="90%" height="450" style={{ border: 0 }} allowFullscreen="" loading="lazy" referrerPolicy="no-referrer-when-downgrade"></iframe>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1524.3602082530037!2d-80.2496316555725!3d40.170778200000036!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8835ad58ec3a3401%3A0xcb74db78e33b0ce2!2sWashington%20County%20Human%20Services%3A%20Clinical%20Intake%20Unit!5e0!3m2!1sen!2sus!4v1689962302448!5m2!1sen!2sus" width="90%" height="450" style={{ border: 0 }} allowFullscreen="false" loading="lazy" referrerPolicy="no-referrer-when-downgrade"></iframe>
           </div>
         </div>
       </header>
