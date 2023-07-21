@@ -1,4 +1,4 @@
-{
+w{
   "short_name": "The Help Center App",
   "name": "The Help Center App: Washington County PA DHS",
   "description":"Resource directory for residents of Washington County PA",
@@ -9,12 +9,12 @@
       "type": "image/x-icon"
     },
     {
-      "src": "logo192.png",
+      "src": "new-county-logo.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "logo512.png",
+      "src": "new-county-logo.png",
       "type": "image/png",
       "sizes": "512x512"
     }
