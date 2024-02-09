@@ -1,1 +1,14 @@
-
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "org.washcopa.app.twa",
+      "sha256_cert_fingerprints": [
+        "7A:E0:4A:A5:C5:7D:71:EB:E7:2D:75:3E:C3:E8:35:00:D4:A2:85:8F:C5:0D:FB:CC:23:49:FF:D6:A4:E1:4F:60"
+      ]
+    }
+  }
+]
